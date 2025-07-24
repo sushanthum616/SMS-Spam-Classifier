@@ -23,7 +23,7 @@ You can test the model by loading `model.pkl` and `vectorizer.pkl` in a Streamli
 ## 📁 Files
 
 - `spam_classifier.ipynb` – Jupyter Notebook with training code
-- `app.py` – (Optional) Streamlit app for the interface
+- `app.py` –  Streamlit app for the interface
 - `vectorizer.pkl` – TF-IDF vectorizer
 - `model.pkl` – Trained ML model
 
@@ -33,5 +33,5 @@ You can test the model by loading `model.pkl` and `vectorizer.pkl` in a Streamli
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/sms-spam-classifier.git
+   git clone https://github.com/sushanthum616/sms-spam-classifier.git
    cd sms-spam-classifier
